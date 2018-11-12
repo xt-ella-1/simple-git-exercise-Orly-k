@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 I like to eat: <potato chips>
 I like to hear: Natan goshen>
 My hobbies are <flag-Football>.
 
 I would like to travel to <Lapland 2/18!! =) >.
+=======
+I like to eat: pizza>
+I like to hear: <mozart>
+My hobbies are <footbal>.
+
+I would like to travel to <lapland>.
+>>>>>>> mybranch
 
 "<practice makes perfect>".
